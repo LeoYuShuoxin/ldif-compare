@@ -1,0 +1,7 @@
+*.pyc
+*.py~
+.DS_Store
+dist
+dist\*
+build
+build\*
